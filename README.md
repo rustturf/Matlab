@@ -4,4 +4,3 @@ Understanding code with MATLAB and how git hub works  I will make changes accord
 1. Introduction to Variables
 2. Introduction to Matlab Workspace and Vs Code Integration
 3. Defining variables, checking variables in workspaces etc.
-4. 
